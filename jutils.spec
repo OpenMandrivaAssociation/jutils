@@ -73,3 +73,15 @@ ln -s %{name}-%{version} $RPM_BUILD_ROOT%_javadocdir/%{name}
 %clean
 rm -rf $RPM_BUILD_ROOT
 
+
+
+%changelog
+* Mon Dec 06 2010 Oden Eriksson <oeriksson@mandriva.com> 1.1.0-2mdv2011.0
++ Revision: 612515
+- the mass rebuild of 2010.1 packages
+
+* Thu Apr 22 2010 Jonathan Bayle <mrhide@mandriva.org> 1.1.0-1mdv2010.1
++ Revision: 537827
+- import jutils
+
+

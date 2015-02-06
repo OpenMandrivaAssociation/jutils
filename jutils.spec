@@ -1,6 +1,6 @@
 %define name	jutils
 %define version	1.1.0
-%define release	%mkrel 2
+%define release	3
 
 Name:		%{name}
 Summary:	Java Game project utils
